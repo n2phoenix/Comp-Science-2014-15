@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=first\ s
+comment0.target=void\ insertnode(Node,\ java.lang.String)
+comment1.params=first
+comment1.target=void\ printnode(Node)
+numComments=2
